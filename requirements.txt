@@ -1,0 +1,5 @@
+playwright
+chromadb
+requests
+typer
+python-dotenv
